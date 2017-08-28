@@ -31,9 +31,9 @@ You may also want to install the following extensions:
 ### Team Chat
 ---
 
-![](https://d17oy1vhnax1f7.cloudfront.net/items/1J3A0f36402p2r1K1u0L/slack-2014.hG65.png)
+![](https://d3vv6lp55qjaqc.cloudfront.net/items/1J3A0f36402p2r1K1u0L/slack-2014.png?X-CloudApp-Visitor-Id=1094421)
 
-https://join.slack.com/t/5443-data-mining/shared_invite/MjMyMzAwODQ2MDAxLTE1MDM5NDc1NzctNjhiMTc2MzI2Mw
+[Join Slack](https://join.slack.com/t/5443-data-mining/shared_invite/MjMyMzAwODQ2MDAxLTE1MDM5NDc1NzctNjhiMTc2MzI2Mw)
 
 The first step in doing well in any of my courses is establishing a base of communication. Why? Not everything can be done while we are in class. 
 
