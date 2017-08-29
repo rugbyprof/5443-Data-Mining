@@ -17,7 +17,14 @@
 
 ## Topics
 
-- TBD
+- Linear Regression
+- K Nearest Neighbors
+- K Means Clustering
+- Decision Trees
+- Random Forests
+- Natural Language Processing
+- Neural Nets and Deep Learning
+- Support Vector Machines
 
    
 ## Grading:	
