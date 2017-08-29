@@ -11,8 +11,9 @@
 - Dates: Aug 28<sup>th</sup> - Dec 13<sup>th</sup>
 - Final Exam: Wed Dec 13<sup>th</sup>, 5:45-7:45 p.m.
 - Holidays: 
+    - Thanksgiving Sep 4<sup>th</sup>
     - Thanksgiving Nov 22<sup>nd</sup> - 26<sup>nd</sup>
-- Last Day for “W”: ??
+- Last Day for “W”: Oct 30
 
 ## Topics
 
