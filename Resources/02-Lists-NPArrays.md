@@ -1,3 +1,4 @@
+<sup>source: https://www.udemy.com/deep-learning-prerequisites-the-numpy-stack-in-python/</sup>
 ## The Numpy Stack 
 ### Lists vs Numpy Arrays
 ```python
