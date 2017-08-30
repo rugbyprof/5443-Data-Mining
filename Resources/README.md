@@ -13,4 +13,5 @@
 - Or use Anaconda
 
 ### Source of Free Background Video
-https://www.udemy.com/deep-learning-prerequisites-the-numpy-stack-in-python/
+Author: https://github.com/lazyprogrammer/ 
+Video: https://www.udemy.com/deep-learning-prerequisites-the-numpy-stack-in-python/
