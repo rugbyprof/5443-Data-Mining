@@ -35,7 +35,3 @@ Vagrant.configure("2") do |vb|
   vb.vm.provision "shell", path: "https://gist.githubusercontent.com/rugbyprof/89601581a9e167be315abc7b3ea28fa9/raw/15c9798b1fe81e95ac5866b32eb18c274532a4d4/ml_ubuntu_setup.sh"
   
 end
-
-Vagrant.configure("2") do |config|
-  
-end
