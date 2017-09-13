@@ -1,6 +1,6 @@
 Scraping Data
 =============
-Due: 15 September by class time.
+Due: 18 September by class time.
 
 A little better example below:
 
