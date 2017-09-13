@@ -1,5 +1,6 @@
 Scraping Data
 =============
+Due: 15 September by class time.
 
 A little better example below:
 
@@ -58,3 +59,11 @@ for i in range(9,10):
 
 print(emp_details)
 ```
+
+### Requirements
+
+- Create a folder called `scrape_data` and place a python script called `run.py` inside.
+- Make sure you have an `Assignments` folder in your github repo and place your scraping folder in there.
+- Comment your code 
+- your output file should be a `csv` or `json` and should be saved within your project folder.
+- You scrape at least 100 data rows.
