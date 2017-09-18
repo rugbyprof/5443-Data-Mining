@@ -6,10 +6,10 @@ Due: TBD
 
 This project will use a logistical regression technique and your choice of libary to implement a machine learning approach to identifying whether or not a parking space is occupied. The dataset can be found here: [PKLot.tar.gz](http://cs.mwsu.edu/~griffin/p-lot/pklot_images/PKLot.tar.gz). 
 
->This database contains 12,417 images (1280X720) captured from two different parking lots (parking1 and parking2) in sunny, >cloudy and rainy days. The first parking lot has two different capture angles (parking1a and parking 1b).
->
->The images are organised into three directories (parking1a, parking1b and parking2). Each directory contains three >subdirectories for different weather conditions (cloudy, rainy and sunny). Inside of each subdirectory the images are >organised by acquisition date.
->
+>This database contains 12,417 images (1280X720) captured from two different parking lots (parking1 and parking2) in sunny, cloudy and rainy days. The first parking lot has two different capture angles (parking1a and parking 1b).
+
+>The images are organised into three directories (parking1a, parking1b and parking2). Each directory contains three subdirectories for different weather conditions (cloudy, rainy and sunny). Inside of each subdirectory the images are organised by acquisition date.
+
 >Each image of the database has a XML file associated including the coordinates of all the parking spaces and its label (occupied/vacant). By using the XML files to segment the parking space, you will be able to get around 695,900 images of  parking spaces.
 
 <sup>Source: https://web.inf.ufpr.br/vri/databases/parking-lot-database/ </sup>
