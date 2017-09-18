@@ -14,30 +14,30 @@
 
 ### Groups
 
-| Group Number  |   Names                         |
-|:--------------|:------------------------------------------|
-| 1.            | Muni Bhupathi Reddy Dandu, Karan Madishetty     |
-| 2.            |  Prakriti Pandey, Jiaxing Liu                   |
-| 3.            | Olayinka Soyinka, keerthi reddy gangidi|
-| 4.            | Steven Kundert, Shenglin Sun                  |
-| 5.            | showrya chakra kollu, thejaswini reddy vootkuri|
-| 6.            | Lavanya Mengaraboina, Krishna Saka                    |
-| 7.            | Sai Avinash Reddy Biradhavolu, Kartik Yallapragada|
-| 8.            | Ajay Dinakar Kandavalli,Nikhil Vangeti            |
-| 9.            | keerthi reddy gangidi                       |  |
+| Group Number | Names                                              |
+|--------------|----------------------------------------------------|
+| 1.           | Muni Bhupathi Reddy Dandu, Karan Madishetty        |
+| 2.           | Prakriti Pandey, Jiaxing Liu                       |
+| 3.           | Olayinka Soyinka, keerthi reddy gangidi            |
+| 4.           | Steven Kundert, Shenglin Sun                       |
+| 5.           | showrya chakra kollu, thejaswini reddy vootkuri    |
+| 6.           | Lavanya Mengaraboina, Krishna Saka                 |
+| 7.           | Sai Avinash Reddy Biradhavolu, Kartik Yallapragada |
+| 8.           | Ajay Dinakar Kandavalli,Nikhil Vangeti             |
+| 9.           | keerthi reddy gangidi                              |
 
 
 ### Dates
 
 
-| Date              |   Group #  |   Paper             |
-|:------------------|:-----------|:--------------------:|
-| Oct 4             |    1      |                       |
-| Oct 11          |   6       |                       |
-| Oct 18           |   5       |                       |
-| Oct 25            |    7      |                       |
-| Oct 30             |          |                       |
-| Nov 1              |          |                       |
-| tbd               |          |                       |
-| tbd               |          |                       |
-| tbd |             |          |                       |
+| Date   | Group # | Paper |
+|--------|---------|-------|
+| Oct 4  | 1       |       |
+| Oct 11 | 6       |       |
+| Oct 18 | 5       |       |
+| Oct 25 | 7       |       |
+| Oct 30 | 2       |       |
+| Nov 1  | 3       |       |
+| Nov 6  | 4       |       |
+| Nov 8  | 8       |       |
+| Nov 13 | 9       |       |
