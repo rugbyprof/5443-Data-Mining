@@ -26,6 +26,7 @@ This project will use a logistical regression technique and your choice of libar
 | Empty | Occupied |
 |---------|------------|
 | ![](http://cs.mwsu.edu/~griffin/p-lot/pklot_images/PKLot/PKLotSegmented/UFPR05/Sunny/2013-02-28/Empty/2013-02-28_18_00_44%23011.jpg) | ![](http://cs.mwsu.edu/~griffin/p-lot/pklot_images/PKLot/PKLotSegmented/UFPR05/Sunny/2013-02-28/Occupied/2013-02-28_17_55_44%23011.jpg) | 
+|![](http://cs.mwsu.edu/~griffin/p-lot/pklot_images/PKLot/PKLotSegmented/UFPR05/Sunny/2013-02-28/Empty/2013-02-28_18_30_45%23024.jpg) |  ![])http://cs.mwsu.edu/~griffin/p-lot/pklot_images/PKLot/PKLotSegmented/UFPR05/Sunny/2013-02-28/Occupied/2013-02-28_17_55_44%23024.jpg) |
 
 ### Part 1: File Processing 
 
