@@ -30,6 +30,16 @@ This project will use a logistical regression technique and your choice of libar
 
 ### Part 1: File Processing 
 
+- TBD
+
+### Part 2: Image Analysis
+
+- TBD
+
+#### Part 3: Machine Learning Model
+
+- TBD
+
 
 
 ### Groups
