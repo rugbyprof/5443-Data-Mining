@@ -46,12 +46,12 @@ This project will use a logistical regression technique and your choice of libar
 
 | Group # | Names |
 |---------|-------|
-| 1.      |       |
-| 2.      |       |
-| 3.      |       |
-| 4.      |       |
-| 5.      |       |
-| 6.      |       |
+| 1.      | Shenglin Sun, Olayinka Soyinka |
+| 2.      | Muni Bhupathi Reddy Dandu, Karan Madishetty, Sai Avinash Reddy Biradhavolu      |
+| 3.      |  Lavanya Mengaraboina,Krishna saka,Keerthi Reddy Gangidi     |
+| 4.      |   showrya chakra kollu,thejaswini reddy vootkuri, karthik yallapragada    |
+| 5.      |  Prakriti, Jiaxing Liu, Steven     |
+| 6.      |  Nikhil Vangeti, Ajay Dinakar Kandavalli     |
 | 7.      |       |
 | 8.      |       |
 | 9.      |       |
