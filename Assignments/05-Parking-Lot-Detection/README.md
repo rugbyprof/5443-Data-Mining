@@ -30,7 +30,13 @@ This project will use a logistical regression technique and your choice of libar
 
 ### Part 1: File Processing 
 
-- TBD
+- Open single parking lot image
+- Open corresponding xml file
+- Convert xml to json
+- Process json to extract image spaes from parking lot image.
+    - save each "sliced" space image to a folder called "spaces"
+    - save each "histogram" to a folder called "histograms" (e.g. `np.savetxt('23.csv', hist, delimiter=',')`
+    
 
 ### Part 2: Image Analysis
 
