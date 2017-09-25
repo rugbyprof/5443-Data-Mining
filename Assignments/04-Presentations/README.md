@@ -32,9 +32,9 @@
 
 | Date   | Group # | Paper |
 |--------|---------|-------|
-| Oct 4  | 1       |       |
-| Oct 11 | 6       |       |
-| Oct 18 | 5       |       |
+| Oct 4  | 1       |  [Spatial Transformer Networks ](https://arxiv.org/pdf/1506.02025.pdf)    |
+| Oct 11 | 6       |   [GoogLeNet](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)    |
+| Oct 18 | 5       |  [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)     |
 | Oct 25 | 7       |       |
 | Oct 30 | 2       |       |
 | Nov 1  | 3       |       |
