@@ -4,24 +4,24 @@ from xml.etree.ElementTree import fromstring
 from json import dumps,loads
 import pprint as pp
 
-fp = open('/Users/griffin/Desktop/Trunk/2012-09-12_10_11_12.xml','r')
 
-xmldata = fp.read()
+def xmltojson(file_name):
+    fp = open(file_name,'r')
 
-jsond = dumps(yahoo.data(fromstring(xmldata)))
+    xmldata = fp.read()
 
-pp.pprint(jsond)
+    jsond = dumps(yahoo.data(fromstring(xmldata)))
 
-print(type(jsond))
+    jsond = loads(jsond)
 
-jsond = loads(jsond)
+    spaces = jsond['parking']['space']
 
-spaces = jsond['parking']['space']
-
-for space in spaces:
-    print(space['contour'])
-    for point in space['contour']['point']:
-        print(point)
+    for space in spaces:
+        print(space['contour'])
+        for point in space['contour']['point']:
+            print(point)
 
 
-
+if __name__=='__main__':
+    filename = 'pklot_example-xml.xml'
+    xmltojson(filename)

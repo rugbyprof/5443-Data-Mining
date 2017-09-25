@@ -3,9 +3,12 @@ import sys
 import pprint as pp
 import json
 
-segdir = "/code/PKLot/PKLotSegmented/UFPR04"
-regdir = "/code/PKLot/PKLot/UFPR04"
-
+"""
+This script traverses the PKLot directory and generates a json
+file representation of the directory structure. This file has 
+already been run, and the corresponding output should be in the 
+"json_files" folder. 
+"""
 
 def generic_dir_walk(ddir):
     # traverse root directory, and list directories as dirs and files as files
@@ -16,10 +19,10 @@ def generic_dir_walk(ddir):
             print(len(path) * '---', file)
 
 
-def create_segmented_image_list(ddir,outfile=None):
+def create_segmented_image_list(root_dir,outfile=None):
     """
-        This function reads a directory structure like below and 
-        returns a list of objects representing each image. 
+    This function reads a directory structure like below and 
+    returns a list of objects representing each image. 
 
         - Cloudy
             - 2012-09-12
@@ -41,7 +44,10 @@ def create_segmented_image_list(ddir,outfile=None):
             - 2012-09-12
             - 2012-09-16 
 
-    Returns: 
+    @Params:
+        root_dir (string) : directory
+        outfile (string)  : name of file to write to (optional)
+    @Returns: 
         [{
             'day': '14',
             'file_name': '2012-12-14_16_35_13#005.jpg',
@@ -57,9 +63,9 @@ def create_segmented_image_list(ddir,outfile=None):
         },...,]
 
     """
-    dirlen = len(ddir) + 1
+    dirlen = len(root_dir) + 1
     image_list = []
-    for root, dirs, files in os.walk(ddir):
+    for root, dirs, files in os.walk(root_dir):
         path = root.split(os.sep)
         sub_path = os.path.join(path[-3],path[-2],path[-1])
         for file in files:
@@ -93,6 +99,43 @@ def create_segmented_image_list(ddir,outfile=None):
     return image_list
 
 def create_lot_image_list(ddir,outfile=None):
+    """
+    This function reads a directory structure like below and 
+    returns a list of objects representing each image. 
+    
+        - Cloudy
+            - 2012-09-12
+                - 2012-09-11_17_02_42.jpg
+                - 2012-09-11_17_02_42.xml
+                - 2012-09-11_17_07_30.jpg
+                - 2012-09-11_17_07_30.xml
+            - 2012-09-16
+            - ...
+        - Rainy
+            - 2012-09-12
+            - 2012-09-16
+            - ...
+        - Sunny
+            - 2012-09-12
+            - 2012-09-16
+            - ...
+    @Params:
+        root_dir (string) : directory
+        outfile (string)  : name of file to write to (optional)
+    @Returns: 
+        [{
+            "path": "Cloudy/2012-12-12",
+            "weather": "Cloudy",
+            "day": "12",
+            "image_name": "2012-12-12_10_05_05.jpg",
+            "xml_name": "2012-12-12_10_05_05.xml",
+            "year": "2012",
+            "month": "12",
+            "hour": "10",
+            "minute": "05",
+            "second": "05"
+        }, ... , ]
+    """
     dirlen = len(ddir) + 1
     image_list = []
     for root, dirs, files in os.walk(ddir):
@@ -122,10 +165,12 @@ def create_lot_image_list(ddir,outfile=None):
 
     if outfile:
         fp = open(outfile,'w')
-        fp.write(json.dumps({'spaces':image_list},indent=4, separators=(',', ': ')))
+        fp.write(json.dumps({'lots':image_list},indent=4, separators=(',', ': ')))
         fp.close()
     return image_list
 
-#segmented_images = create_segmented_image_list(segdir,'seg_image_list.json')
-lot_images = create_lot_image_list(regdir,'lot_image_list.json')
-#pp.pprint(lot_images)
+if __name__=='__main__':
+    if not os.path.isfile('./json_files/seg_image_list.json'):
+        create_segmented_image_list("/code/PKLot/PKLotSegmented/UFPR04","./json_files/seg_image_list.json")
+    if not os.path.isfile('./json_files/lot_image_list.json'):       
+        create_lot_image_list("/code/PKLot/PKLot/UFPR04","./json_files/lot_image_list.json")
