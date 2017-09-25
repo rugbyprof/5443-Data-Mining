@@ -30,6 +30,7 @@ This project will use a logistical regression technique and your choice of libar
 
 ### Part 1: File Processing 
 
+## More specifics coming...
 - Open single parking lot image
 - Open corresponding xml file
 - Convert xml to json
