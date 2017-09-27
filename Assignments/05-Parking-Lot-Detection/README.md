@@ -32,7 +32,7 @@ This project will use a logistical regression technique and your choice of libar
 
 #### Folder Structure
 
-- ![](https://www.codeproject.com/script/Membership/Images/octicons_github.png) assignments 
+- &#128193; assignments 
     - &#128193; `process_single_lot`
         - &#128193; `spaces`
         - &#128193; `histograms`
