@@ -30,14 +30,24 @@ This project will use a logistical regression technique and your choice of libar
 
 ### Part 1: File Processing 
 
-## More specifics coming...
-- Open single parking lot image
-- Open corresponding xml file
+#### Folder Structure
+
+- ![](https://www.codeproject.com/script/Membership/Images/octicons_github.png) assignments 
+    - &#128193; `process_single_lot`
+        - &#128193; `spaces`
+        - &#128193; `histograms`
+    - &#x21b3; `process_lot.py`
+
+
+- Look at above folder structure
+- Write a script (process_lot.py) to open a single parking lot image
+- Open the corresponding xml file
 - Convert xml to json
 - Process json to extract image spaes from parking lot image.
     - save each "sliced" space image to a folder called "spaces"
     - save each "histogram" to a folder called "histograms" (e.g. `np.savetxt('23.csv', hist, delimiter=',')`
-    
+- Your "sliced" spaces will contain extra pixels around the actual space. This is ok, we will fix this error next time.
+- Your histograms will also be flawed, becuase they will be run on the poorly sliced spaces. We will re-use your code to run histograms on the improved spaces next time.
 
 ### Part 2: Image Analysis
 
