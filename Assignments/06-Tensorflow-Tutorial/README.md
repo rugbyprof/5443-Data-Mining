@@ -3,7 +3,7 @@
 This assignment is very trivial. All you need to do is the following:
 
 1. Follow this tutorial
-2. Clone this repo: https://github.com/sankit1/cv-tricks.com/tree/master/Tensorflow-tutorials/tutorial-2-image-classifier to get the code for the repo.
+2. Clone this [repo](https://github.com/sankit1/cv-tricks.com/tree/master/Tensorflow-tutorials/tutorial-2-image-classifier) to get the code for the tutorial.
 2. Run the `train.py` file (e.g. `python train.py`). Will run for a long time.
 3. Run the `predict.py` file. 
     - You need to pick a path to a file to predict with. 
