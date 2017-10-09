@@ -10,6 +10,26 @@ This assignment is very trivial. All you need to do is the following:
     - `python predict.py ./testing_data/dogs/dog.1110.jpg`
 4. You should get output like following `[%confidence for , % confidence against]`
 
+### Deliverables
+
+- Create a folder called `catsndogs` in your assignments folder.
+- `catsndogs` should have the following basic folder structure:
+
+- &#128193; assignments 
+    - &#128193; `catsndogs`
+    - &#128193; `testing_data`
+        - &#128193; `cats` # don't upload the images
+        - &#128193; `dogs` # don't upload the images
+    - &#128193; `training_data`
+        - &#128193; `cats` # don't upload the images
+        - &#128193; `dogs` # don't upload the images
+    - &#x21b3; `dataset.py`
+    - &#x21b3; `predict.py`
+    - &#x21b3; `train.py`
+    - &#x21b3; `dogs-cats-model.data-00000-of-00001`
+    - &#x21b3; `dogs-cats-model.index`
+    - &#x21b3; `dogs-cats-model.meta`
+
 | # |   | Groups .                    |
 |---|---|-------------------------------|
 | 1 |---|-------------------------------|
