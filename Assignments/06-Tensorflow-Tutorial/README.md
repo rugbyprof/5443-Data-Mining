@@ -31,10 +31,9 @@ This assignment is very trivial. All you need to do is the following:
     - &#x21b3; `dogs-cats-model.meta`
     
 These 3 files are your prediction model:
-
-    - &#x21b3; `dogs-cats-model.data-00000-of-00001`
-    - &#x21b3; `dogs-cats-model.index`
-    - &#x21b3; `dogs-cats-model.meta`
+- &#x21b3; `dogs-cats-model.data-00000-of-00001`
+- &#x21b3; `dogs-cats-model.index`
+- &#x21b3; `dogs-cats-model.meta`
     
     
 #### Each person in the group must have a copy of the code on thier repo!
