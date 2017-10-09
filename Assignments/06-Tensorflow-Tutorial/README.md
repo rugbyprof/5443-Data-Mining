@@ -17,19 +17,19 @@ This assignment is very trivial. All you need to do is the following:
 
 - &#128193; assignments 
     - &#128193; `catsndogs`
-    - &#128193; `testing_data`
-        - &#128193; `cats` # don't upload the images
-        - &#128193; `dogs` # don't upload the images
-    - &#128193; `training_data`
-        - &#128193; `cats` # don't upload the images
-        - &#128193; `dogs` # don't upload the images
-    - &#x21b3; `dataset.py`
-    - &#x21b3; `predict.py`
-    - &#x21b3; `train.py`
-    - &#x21b3; `dogs-cats-model.data-00000-of-00001`
-    - &#x21b3; `dogs-cats-model.index`
-    - &#x21b3; `dogs-cats-model.meta`
-    
+        - &#128193; `testing_data`
+            - &#128193; `cats` # don't upload the images
+            - &#128193; `dogs` # don't upload the images
+        - &#128193; `training_data`
+            - &#128193; `cats` # don't upload the images
+            - &#128193; `dogs` # don't upload the images
+        - &#x21b3; `dataset.py`
+        - &#x21b3; `predict.py`
+        - &#x21b3; `train.py`
+        - &#x21b3; `dogs-cats-model.data-00000-of-00001`
+        - &#x21b3; `dogs-cats-model.index`
+        - &#x21b3; `dogs-cats-model.meta`
+
 These 3 files are your prediction model:
 - &#x21b3; `dogs-cats-model.data-00000-of-00001`
 - &#x21b3; `dogs-cats-model.index`
