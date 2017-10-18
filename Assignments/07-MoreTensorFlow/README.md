@@ -30,6 +30,11 @@ concepts in class, or you can spend your time learning them, and we can discuss 
 
 ### Assignment:
 
+- Based on the sign data available [here](http://btsd.ethz.ch/shareddata/)
+- And this [iPython Notebook](street_sign_predict.ipynb)
+
+- Deliver the following working version of the tutorial:
+
 - &#128193; assignments 
     - &#128193; `belgian_sign_classification`
         - &#128193; `TrafficSigns` (empty - don't upload images)
