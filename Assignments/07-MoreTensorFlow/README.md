@@ -30,4 +30,7 @@ concepts in class, or you can spend your time learning them, and we can discuss 
 
 ### Assignment:
 
-It will be based on the datacamp tutorial ... 
+- &#128193; assignments 
+    - &#128193; `belgian_sign_classification`
+        - &#128193; `TrafficSigns` (empty - don't upload images)
+        - &#x21b3; `predict_signs.py`
