@@ -10,3 +10,4 @@
   - &#128193; belgian_sign_classificaton
   - &#128193; single_space_cnn
   - &#128193; full_lot_cnn
+  - &#128193; wiki_contributions
