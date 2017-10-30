@@ -8,3 +8,5 @@
   - &#128193; parking_lot_detection_pt_1
   - &#128193; catsndogs
   - &#128193; belgian_sign_classificaton
+  - &#128193; single_space_cnn
+  - &#128193; full_lot_cnn
