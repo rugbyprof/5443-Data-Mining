@@ -28,6 +28,29 @@ This assignment is for each group to add the specific and common terms to this r
     - Red links are terms with no page defined.
     - Blue links are terms with an existing page.
 - ***3)*** Feel free to edit an existing page to add a source, or to add images etc.. Anything to make the explanation more clear. 
-- ***4)*** Create a folder called `wiki_contributions` in your assignments folder, with a `README.md` file that shows a list of the words you or your group contributed to the wiki.
-    - The page should list all users in the group.
-    - The words should link to the page where the definition exists.
+- ***4)*** Create a folder called `wiki_contributions` in your assignments folder, with a `README.md` file that contains:  
+    - A list all users in the group.
+    - A link to your powerpoint that should also be in the `wiki_contributions` folder.
+    - A list of the words you or your group contributed to the wiki (with links to the wiki).
+    
+ ### Example:
+ 
+ ```md
+ #### Group Members
+ 
+ | #        | Name                 |
+ |:--------:|:--------------------:|
+ |   1      |    name one          |
+ |   2      |    name two          |
+ |   3      |    name three        |
+
+#### Powerpoint
+
+![My Powerpoint Presentation](http://google.com)
+
+#### Contributed Words
+
+1. [Convolutional-Neural-Net](https://github.com/rugbyprof/5443-Data-Mining/wiki/Convolutional-Neural-Net)
+2. [Convolutions](https://github.com/rugbyprof/5443-Data-Mining/wiki/Convolutions) 
+3. etc.
+```
