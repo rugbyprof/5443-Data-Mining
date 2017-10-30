@@ -28,3 +28,6 @@ This assignment is for each group to add the specific and common terms to this r
     - Red links are terms with no page defined.
     - Blue links are terms with an existing page.
 - ***3)*** Feel free to edit an existing page to add a source, or to add images etc.. Anything to make the explanation more clear. 
+- ***4)*** Create a folder called `wiki_contributions` in your assignments folder, with a `README.md` file that shows a list of the words you or your group contributed to the wiki.
+    - The page should list all users in the group.
+    - The words should link to the page where the definition exists.
