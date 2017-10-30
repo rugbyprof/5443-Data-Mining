@@ -10,6 +10,7 @@
     1. [R-CNN](https://arxiv.org/pdf/1311.2524v5.pdf)
     1. [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf)
     1. [Faster R-CNN](http://arxiv.org/pdf/1506.01497v3.pdf)
+1. [Deep Residual Learning for Image Recognition](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 
 ### Groups
@@ -36,25 +37,10 @@
 | Oct 11 | 6       |   [GoogLeNet](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)    |
 | Oct 18 | 5       |  [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)     |
 | Oct 25 | 7       | [ZF Net](https://arxiv.org/pdf/1311.2901v3.pdf)      |
-| Oct 30 | 2       |       |
+| Oct 30 | 2       | [Deep Residual Learning for Image Recognition](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)      |
 | Nov 1  | 3       |       |
 | Nov 6  | 4       |       |
 | Nov 8  | 8       |       |
 | Nov 13 | 9       |       |
 
-### Groups
 
-| Group # | Names |
-|---------|-------|
-| 1.      |       |
-| 2.      |       |
-| 3.      |       |
-| 4.      |       |
-| 5.      |       |
-| 6.      |       |
-| 7.      |       |
-| 8.      |       |
-| 9.      |       |
-
-
-2013-02-28_18_05_44.jpg
