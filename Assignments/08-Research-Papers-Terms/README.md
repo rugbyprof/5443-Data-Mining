@@ -11,7 +11,7 @@ for each paper. As an example, in "Deep Residual Learning for Image Recognition"
 - normalized initialization
 - etc.
 
-Just to list a few. And by looking into "depth of a network", I came across "width of a network" as another common term.
+Just to list a few. And by looking into "depth of a network", I came across "width of a network" as another common term. So make sure to define the "converse" or "complimentary" definition. 
 
 This assignment is for each group to add the specific and common terms to this repos [wiki page](https://github.com/rugbyprof/5443-Data-Mining/wiki).
 
