@@ -102,7 +102,7 @@ Same instructions, code must run, repo must contain correct files.
         - &#x21b3; `dogs-cats-model.index`
         - &#x21b3; `dogs-cats-model.meta`
 
-belgian street sign
+More Tensor Flow
 ===================
 
 | :hash:       | Item                                               | Possible | Earned |
@@ -121,17 +121,41 @@ belgian street sign
             - &#x21b3; &#128193; Testing/
         - &#x21b3; `predict_signs.py`
 
-single space cnn
-================
+Single Parking Space Classification
+===================================
 
-- replace cats n dogs with single space data provided by me
-- replace testing and training data with single space data
-- check slack for data link 
+| :hash:       | Item                                        | Possible | Earned |
+|--------------|---------------------------------------------|----------|--------|
+| :one:        | Path and naming requirements followed.      | 15       |        |
+| :two:        | Code is commented                           | 10       |        |
+| :three:      | All code runs.                              | 50       |        |
+| :four:       | A README.md is included.                    | 10       |        |
+| :five:       | `train.py` runs and generates model.        | 25       |        |
+| :six:        | `predict.py` runs and outputs a prediction. | 25       |        |
+|              | ***Total:***                                | 135      |        |
+
+- &#128193; assignments 
+    - &#128193; `single_space_cnn`
+        - &#128193; `testing_data`
+            - &#128193; `Empty` # don't upload the images
+            - &#128193; `Occupied` # don't upload the images
+        - &#128193; `training_data`
+            - &#128193; `Empty` # don't upload the images
+            - &#128193; `Occupied` # don't upload the images
+        - &#x21b3; `dataset.py`
+        - &#x21b3; `predict.py`
+        - &#x21b3; `train.py`
+        - &#x21b3; `single_space_cnn.data-00000-of-00001`
+        - &#x21b3; `single_space_cnn.index`
+        - &#x21b3; `single_space_cnn.meta`
 
 
 wiki contributions
 ==================
 
-- add keywords dealing with specific papers
-- add additional common terms to other parts of wiki
-- edit other groups pages and terms to add addtional clarification.
+| :hash:       | Item                                                                 | Possible | Earned |
+|--------------|----------------------------------------------------------------------|----------|--------|
+| :one:        | Added keywords dealing with groups presented paper.                  | 30       |        |
+| :two:        | Added additional common terms to other parts of wiki.                | 30       |        |
+| :three:      | Edited other groups pages and terms to add additional clarification. | 40       |        |
+|              |  ***Total:***                                                        | 100       |        |
