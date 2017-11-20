@@ -6,12 +6,13 @@ Assignments CheckList
 - All code presented should run.
 - Comments are expected
 - A README.md file describing project and group members is expected in every assignment folder.
+- You will have to at least start running each script to show it runs. 
 
 
 Scraping Data
 ======
 
-For me to grade this, I will just need to see your repository page to make sure everything is present and instructions were followed. 
+For me to grade this, I will just need to see your repository page to make sure everything is present and instructions were followed. You will have to show me that your `run.py` file runs without error.
 
 | :hash:       | Item                                                                         | Possible | Earned |
 |--------------|------------------------------------------------------------------------------|----------|--------|
@@ -32,6 +33,8 @@ For me to grade this, I will just need to see your repository page to make sure 
 Simple Regression
 =================
 
+I will just need to see your repository page to make sure everything is present and instructions were followed. You will have to show me that your `run.py` file runs without error and generates the pyplot image.
+
 | :hash:       | Item                                                                                | Possible | Earned |
 |--------------|-------------------------------------------------------------------------------------|----------|--------|
 | :one:        | Path and naming requirements followed.                                              | 15       |        |
@@ -47,78 +50,76 @@ Simple Regression
       - &#x21b3; mortgage_rates.csv  
 
 
-parking lot 1
-=============
+Occupied Parking Space Project
+==============================
 
-📁 assignments
+Again, I will need to see your repository page to make sure everything is present and instructions were followed. You will have to show me that your `process_lot.py` file runs without error and generates output. 
 
-📁 process_single_lot
-📁 spaces
-📁 histograms
-↳ process_lot.py
-Look at above folder structure
-
-Write a script (process_lot.py) to open a single parking lot image
-
-Open the corresponding xml file
-
-Convert xml to json
-
-Process json to extract image spaes from parking lot image.
-
-save each "sliced" space image to a folder called "spaces"
-save each "histogram" to a folder called "histograms" (e.g. np.savetxt('23.csv', hist, delimiter=',')
-Your "sliced" spaces will contain extra pixels around the actual space. This is ok, we will fix this error next time.
-
-Your histograms will also be flawed, becuase they will be run on the poorly sliced spaces. We will re-use your code to run histograms on the improved spaces next time.
+| :hash:       | Item                                           | Possible | Earned |
+|--------------|------------------------------------------------|----------|--------|
+| :one:        | Path and naming requirements followed.         | 15       |        |
+| :two:        | Code is commented                              | 10       |        |
+| :three:      | All code runs.                                 | 50       |        |
+| :four:       | A README.md is included.                       | 10       |        |
+| :five:       | `process_lot.py` converts `xml` to `json`      | 20       |        |
+| :six:        | Extracted images are saved to `spaces` folder. | 25       |        |
+| :seven:      | Histograms are saved to `histograms` folder.   | 25       |        |
+|              | ***Total:***                                   | 155      |        |
 
 - &#128193; assignments
   - &#x21b3; &#128193; process_single_lot
-      - &#x21b3; &#128193; spaces
-      - &#x21b3; &#128193; histograms
+      - &#x21b3; &#128193; spaces (must contain at least some examples, but not all have to be on repo.)
+      - &#x21b3; &#128193; histograms (must contain at least some examples, but not all have to be on repo.)
       - &#x21b3; process_lot.py
 
-cats n dogs
-===========
+Tensor Flow Tutorial
+====================
 
-no real deliverable only executable code
+Same instructions, code must run, repo must contain correct files. 
 
-Create a folder called catsndogs in your assignments folder.
+| :hash:       | Item                                        | Possible | Earned |
+|--------------|---------------------------------------------|----------|--------|
+| :one:        | Path and naming requirements followed.      | 15       |        |
+| :two:        | Code is commented                           | 10       |        |
+| :three:      | All code runs.                              | 50       |        |
+| :four:       | A README.md is included.                    | 10       |        |
+| :five:       | `train.py` runs and generates model.        | 25       |        |
+| :six:        | `predict.py` runs and outputs a prediction. | 25       |        |
+|              | ***Total:***                                | 135      |        |
 
-catsndogs should have the following basic folder structure:
-
-📁 assignments
-
-📁 catsndogs
-📁 testing_data
-📁 cats # don't upload the images
-📁 dogs # don't upload the images
-📁 training_data
-📁 cats # don't upload the images
-📁 dogs # don't upload the images
-↳ dataset.py
-↳ predict.py
-↳ train.py
-↳ dogs-cats-model.data-00000-of-00001
-↳ dogs-cats-model.index
-↳ dogs-cats-model.meta
+- &#128193; assignments 
+    - &#128193; `catsndogs`
+        - &#128193; `testing_data`
+            - &#128193; `cats` # don't upload the images
+            - &#128193; `dogs` # don't upload the images
+        - &#128193; `training_data`
+            - &#128193; `cats` # don't upload the images
+            - &#128193; `dogs` # don't upload the images
+        - &#x21b3; `dataset.py`
+        - &#x21b3; `predict.py`
+        - &#x21b3; `train.py`
+        - &#x21b3; `dogs-cats-model.data-00000-of-00001`
+        - &#x21b3; `dogs-cats-model.index`
+        - &#x21b3; `dogs-cats-model.meta`
 
 belgian street sign
 ===================
 
-running code, sign classification 
+| :hash:       | Item                                               | Possible | Earned |
+|--------------|----------------------------------------------------|----------|--------|
+| :one:        | Path and naming requirements followed.             | 15       |        |
+| :two:        | Code is commented                                  | 10       |        |
+| :three:      | All code runs.                                     | 50       |        |
+| :four:       | A README.md is included.                           | 10       |        |
+| :five:       | `predict_signs.py` runs and generates predictions. | 25       |        |
+|              |   ***Total:***                                     |  110        |        |
 
-Based on the sign data available here
-
-And this iPython Notebook
-
-Deliver the following working version of the tutorial:
-
-📁 assignments
-
-📁 belgian_sign_classification
-📁 TrafficSigns (empty - don't upload images)
-↳ predict_signs.py
+- &#128193; assignments 
+    - &#x21b3; &#128193; `belgian_sign_classification`
+        - &#128193; `TrafficSigns` (empty - don't upload images)
+            - &#x21b3; &#128193; Training/
+            - &#x21b3; &#128193; Testing/
+        - &#x21b3; `predict_signs.py`
 
 single space cnn
 ================
