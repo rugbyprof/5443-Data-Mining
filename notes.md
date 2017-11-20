@@ -1,31 +1,51 @@
+Assignments CheckList
+=====================
+
+### Overview
+- Every assignment should be in its own folder.
+- All code presented should run.
+- Comments are expected
+- A README.md file describing project and group members is expected in every assignment folder.
+
+
 Scraping Data
 ======
 
-For me to grade this, I will just need to see your repository page to make sure everything is present and instructions were followed.
+For me to grade this, I will just need to see your repository page to make sure everything is present and instructions were followed. 
 
-| :hash:       | Item                                                                                                 | Possible | Earned |
-|--------------|------------------------------------------------------------------------------------------------------|----------|--------|
-| :one:        | Path and naming requirements followed.                                                               | 15       |        |
-| :two:        | Code is commented                                                                                    | 10       |        |
-| :three:      | A README.md is included in the assignment with a brief description and group members (if necessary.) | 10       |        |
-| :four:       | A csv or json file exists and contains scraped data.                                                 | 20       |        |
-| :five:       | There are a minimum of 100 rows of data in the json/csv file.                                        | 20       |        |
-| :six:        | The code actually scraped html and not just txt or tabular data on a server.                         | 25       |        |
-|              | ***Total:***                                                                                         | 100      |        |
+| :hash:       | Item                                                                         | Possible | Earned |
+|--------------|------------------------------------------------------------------------------|----------|--------|
+| :one:        | Path and naming requirements followed.                                       | 15       |        |
+| :two:        | Code is commented                                                            | 10       |        |
+| :three:      | A README.md is included.                                                     | 10       |        |
+| :four:       | A csv or json file exists and contains scraped data.                         | 20       |        |
+| :five:       | There are a minimum of 100 rows of data in the json/csv file.                | 20       |        |
+| :six:        | The code actually scraped html and not just txt or tabular data on a server. | 25       |        |
+|              | ***Total:***                                                                 | 100      |        |
 
 - &#128193; assignments
   - &#x21b3; &#128193;scrape_data
-      - &#x21b3; &#128193; run.py
-      - &#x21b3; &#128193; data.json or .csv      
+      - &#x21b3; run.py
+      - &#x21b3; data.json or .csv      
 
 
 Simple Regression
 =================
 
-use given csv to create a pyplot
-deliverables = code + plot 
+| :hash:       | Item                                                                                | Possible | Earned |
+|--------------|-------------------------------------------------------------------------------------|----------|--------|
+| :one:        | Path and naming requirements followed.                                              | 15       |        |
+| :two:        | Code is commented                                                                   | 10       |        |
+| :three:      | All code runs.                                                                      | 50       |        |
+| :four:       | A README.md is included.                                                            | 10       |        |
+| :five:       | An image file containing the results of the regression run on `mortgage_rates.csv`. | 30       |        |
+| ***Total:*** |                                                                                     | 115      |        |
 
-Part 1: File Processing
+- &#128193; assignments
+  - &#x21b3; &#128193;simple_regression
+      - &#x21b3; run.py
+      - &#x21b3; mortgage_rates.csv  
+
 
 parking lot 1
 =============
@@ -52,6 +72,11 @@ Your "sliced" spaces will contain extra pixels around the actual space. This is 
 
 Your histograms will also be flawed, becuase they will be run on the poorly sliced spaces. We will re-use your code to run histograms on the improved spaces next time.
 
+- &#128193; assignments
+  - &#x21b3; &#128193; process_single_lot
+      - &#x21b3; &#128193; spaces
+      - &#x21b3; &#128193; histograms
+      - &#x21b3; process_lot.py
 
 cats n dogs
 ===========
