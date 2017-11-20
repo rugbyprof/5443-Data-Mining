@@ -1,5 +1,7 @@
-Scrape
+Scraping Data
 ======
+
+For me to grade this, I will just need to see your repository page to make sure everything is present and instructions were followed.
 
 | :hash:       | Item                                                                                                 | Possible | Earned |
 |--------------|------------------------------------------------------------------------------------------------------|----------|--------|
@@ -10,6 +12,12 @@ Scrape
 | :five:       | There are a minimum of 100 rows of data in the json/csv file.                                        | 20       |        |
 | :six:        | The code actually scraped html and not just txt or tabular data on a server.                         | 25       |        |
 |              | ***Total:***                                                                                         | 100      |        |
+
+- &#128193; assignments
+  - &#x21b3; &#128193;scrape_data
+      - &#x21b3; &#128193; run.py
+      - &#x21b3; &#128193; data.json or .csv      
+
 
 Simple Regression
 =================
