@@ -1,11 +1,15 @@
 Scrape
 ======
 
-Create a folder called scrape_data and place a python script called run.py inside.
-Make sure you have an Assignments folder in your github repo and place your scraping folder in there.
-Comment your code
-your output file should be a csv or json and should be saved within your project folder.
-You scrape at least 100 data rows.
+| :hash:       | Item                                                                                                 | Possible | Earned |
+|--------------|------------------------------------------------------------------------------------------------------|----------|--------|
+| :one:        | Path and naming requirements followed.                                                               | 15       |        |
+| :two:        | Code is commented                                                                                    | 10       |        |
+| :three:      | A README.md is included in the assignment with a brief description and group members (if necessary.) | 10       |        |
+| :four:       | A csv or json file exists and contains scraped data.                                                 | 20       |        |
+| :five:       | There are a minimum of 100 rows of data in the json/csv file.                                        | 20       |        |
+| :six:        | The code actually scraped html and not just txt or tabular data on a server.                         | 25       |        |
+|              | ***Total:***                                                                                         | 100      |        |
 
 Simple Regression
 =================
