@@ -42,7 +42,7 @@ I will just need to see your repository page to make sure everything is present 
 | :three:      | All code runs.                                                                      | 50       |        |
 | :four:       | A README.md is included.                                                            | 10       |        |
 | :five:       | An image file containing the results of the regression run on `mortgage_rates.csv`. | 30       |        |
-| ***Total:*** |                                                                                     | 115      |        |
+|              |  ***Total:***                                                                       | 115      |        |
 
 - &#128193; assignments
   - &#x21b3; &#128193;simple_regression
