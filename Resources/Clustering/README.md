@@ -39,6 +39,8 @@ Density-based spatial clustering of applications with noise (DBSCAN) is a data c
 
 ### [Principal Component Analysis](https://en.wikipedia.org/wiki/Principal_component_analysis)
 
+- http://sebastianraschka.com/Articles/2014_pca_step_by_step.html
+
 ### iPython Notebooks
 
 - [K-Means](K-Means-Clustering.ipynb)
